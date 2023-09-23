@@ -76,8 +76,7 @@ You can mint and burn functions by placing an unsigned integer value as _value i
 
 ## Help
 
-Any advise for common problems or issues.
-Be sure to compile before deploying MyToken.sol
+Be sure to compile before deploying MyToken.sol </br>
 Be sure to select MyToken.sol as the contract before deploying
 
 ## Authors
