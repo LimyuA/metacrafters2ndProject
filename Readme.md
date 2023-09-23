@@ -81,7 +81,6 @@ Be sure to select MyToken.sol as the contract before deploying
 
 ## Authors
 
-Contributors names and contact info
 Alan Gabriel Limyu (limyualan@gmail.com)
 
 
